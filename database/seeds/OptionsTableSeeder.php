@@ -17,21 +17,21 @@ class OptionsTableSeeder extends Seeder
                 'id'             => 1,
                 'option_text'    => 'Option 1',
                 'question_id'    => 1,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
                 'id'             => 2,
                 'option_text'    => 'Option 2',
                 'question_id'    => 1,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
                 'id'             => 3,
                 'option_text'    => 'Option 3',
                 'question_id'    => 1,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
@@ -46,21 +46,21 @@ class OptionsTableSeeder extends Seeder
                 'id'             => 5,
                 'option_text'    => 'Option 1',
                 'question_id'    => 2,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
                 'id'             => 6,
                 'option_text'    => 'Option 2',
                 'question_id'    => 2,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
                 'id'             => 7,
                 'option_text'    => 'Option 3',
                 'question_id'    => 2,
-                'points'         => null,
+                'points'         => 0,
             ],
 
             [
